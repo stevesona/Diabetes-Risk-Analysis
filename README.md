@@ -30,7 +30,7 @@ The dataset used for this analysis was sourced from **Kaggle**.
 ---
 
 ## Dataset  
-- ** Source:** [Kaggle](your_kaggle_dataset_link)  
+- ** Source:** Kaggle  
 - ** Sample size:** 100,000 records  
 
 ### **Features**  
