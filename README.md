@@ -20,7 +20,8 @@ This project aims to **analyze and predict diabetes** in different demographic g
 The dataset used for this analysis was sourced from **Kaggle**.
 
 ### **Power BI Dashboard Preview**  
-  ![Diabetes Risk Analysis](https://github.com/user-attachments/assets/337045e7-df11-40b4-ba62-79dbfda40bf2)
+  ![Diabetes Risk Analysis](https://github.com/user-attachments/assets/4389da39-7b8f-4e49-acaf-0e9362918a8a)
+
 
 
 ### **View Interactive Dashboard**  
