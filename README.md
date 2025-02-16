@@ -106,8 +106,8 @@ Identified key predictive features
 ---
 
 ## How to Use  
- **View the Power BI Dashboard**: [Click here](your_power_bi_public_link)  
- **Download the PBIX File**: [Download Here](your_pbix_file_link)  
+ **View the Power BI Dashboard**: [[Click here to view the Power BI Dashboard](https://drive.google.com/file/d/1xNo-E9GOHkQoo2oyIo693KOJxQery4PA/view?usp=drive_link))  
+ **Download the PBIX File**: [Download Here](https://drive.google.com/file/d/1xNo-E9GOHkQoo2oyIo693KOJxQery4PA/view?usp=drive_link)  
  **Run SQL Queries** on SQL Server or Power BI  
 
 ---
