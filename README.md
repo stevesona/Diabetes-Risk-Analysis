@@ -30,8 +30,8 @@ The dataset used for this analysis was sourced from **Kaggle**.
 ---
 
 ## Dataset  
-- ** Source:** Kaggle  
-- ** Sample size:** 100,000 records  
+- ** Source: Kaggle  
+- ** Sample size: 100,000 records  
 
 ### **Features**  
 - Age  
