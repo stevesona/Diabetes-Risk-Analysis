@@ -16,8 +16,8 @@
 ---
 
 ## Project Overview  
-This project aims to **analyze and predict diabetes** in different demographic groups based on key health indicators such as **age, sex, BMI, and smoking history**.  
-The dataset used for this analysis was sourced from **Kaggle**.
+This project aims to analyze and predict diabetes** in different demographic groups based on key health indicators such as age, sex, BMI, and smoking history.  
+The dataset used for this analysis was sourced from Kaggle.
 
 ### **Power BI Dashboard Preview**  
   ![Diabetes Risk Analysis](https://github.com/user-attachments/assets/4389da39-7b8f-4e49-acaf-0e9362918a8a)
@@ -33,7 +33,7 @@ The dataset used for this analysis was sourced from **Kaggle**.
 - ** Source: Kaggle  
 - ** Sample size: 100,000 records  
 
-### **Features**  
+### Features  
 - Age  
 - Sex  
 - Body Mass Index (BMI)  
@@ -41,7 +41,7 @@ The dataset used for this analysis was sourced from **Kaggle**.
 - Blood Glucose Levels  
 - Hypertension  
 - Heart Disease  
-- **Diabetes Outcome (Target Variable)**  
+- Diabetes Outcome (Target Variable)  
 
 ---
 
@@ -60,27 +60,27 @@ The dataset used for this analysis was sourced from **Kaggle**.
 ---
 
 ## Steps Taken  
-### **📌 Data Processing**  
+### Data Processing  
 Handled missing values & inconsistencies  
 Created calculated columns for deeper insights  
 Normalized & scaled numerical features  
 
-### **Exploratory Data Analysis (EDA)**  
+### Exploratory Data Analysis (EDA)  
 Visualized distributions & correlations  
 Identified key predictive features  
 
 ---
 
 ## Key Findings  
-**Strong Correlations**  
-- **BMI & blood glucose levels** have a strong link to diabetes risk.  
-- **Smoking history & age** are significant factors.  
-- Individuals with **hypertension & heart disease** are at higher risk.  
+Strong Correlations  
+- BMI & blood glucose levels have a strong link to diabetes risk.  
+- Smoking history & age are significant factors.  
+- Individuals with hypertension & heart disease are at higher risk.  
 
 ---
 
 ## Recommendations  
-### **Preventive Measures**  
+### Preventive Measures  
 - **Lifestyle changes**: Diet & exercise for high-risk individuals  
 - **Routine screenings**: Early detection improves outcomes  
 
@@ -89,24 +89,24 @@ Identified key predictive features
 - **Educational programs** can promote healthier lifestyles  
 
 ### **Data Collection Improvements**  
-- **More lifestyle data** (diet, activity levels, family history)  
-- **Wearable devices** for real-time monitoring  
+- More lifestyle data (diet, activity levels, family history)  
+- Wearable devices for real-time monitoring  
 
 ---
 
 ## Limitations  
-**Dataset Bias**: May not be representative of all demographics.  
-**Limited Features**: No detailed lifestyle data (diet, activity levels).  
-**Model Generalization**: May not perform well across different populations. Genetics and
+Dataset Bias: May not be representative of all demographics.  
+Limited Features: No detailed lifestyle data (diet, activity levels).  
+Model Generalization: May not perform well across different populations. Genetics and
   environmental factors need to be accounted for.
-**Binary Predictions**: No risk-level gradation (only diabetic/non-diabetic).  There is no 
+Binary Predictions: No risk-level gradation (only diabetic/non-diabetic).  There is no 
   Consideration for level of risk or borderline cases. 
 **Medical Disclaimer**: **Not a substitute for professional advice**.  
 
 ---
 
 ## How to Use  
- **View the Power BI Dashboard**: [[Click here to view the Power BI Dashboard](https://drive.google.com/file/d/1xNo-E9GOHkQoo2oyIo693KOJxQery4PA/view?usp=drive_link))  
+ View the Power BI Dashboard: [[Click here to view the Power BI Dashboard](https://drive.google.com/file/d/1xNo-E9GOHkQoo2oyIo693KOJxQery4PA/view?usp=drive_link))  
  **Download the PBIX File**: [Download Here](https://drive.google.com/file/d/1xNo-E9GOHkQoo2oyIo693KOJxQery4PA/view?usp=drive_link)  
  **Run SQL Queries** on SQL Server or Power BI  
 
