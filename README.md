@@ -25,7 +25,7 @@ The dataset used for this analysis was sourced from **Kaggle**.
 
 
 ### **View Interactive Dashboard**  
-[Click here to view the Power BI Dashboard](https://drive.google.com/file/d/1xNo-E9GOHkQoo2oyIo693KOJxQery4PA/view?usp=drive_link)
+[https://app.powerbi.com/links/9seoNaANLW?ctid=fa2ba4d4-2420-4ee7-a4a9-2dd993d6ee94&pbi_source=linkShare)
 
 ---
 
